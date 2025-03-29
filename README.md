@@ -1,5 +1,4 @@
-# Agentic DNA by Cheshire Terminal powered by Eliza Os and Solana
-
+# Agentic DNA by Cheshire Terminal
 Welcome to **Agentic DNA**, an innovative project powered by the Wonderland framework on the Solana blockchain. Agentic DNA generates unique, DNA-like sequences for agents—think of them as users, bots, or autonomous entities—offering a fresh approach to creating distinct identities or traits in decentralized applications (dApps). Whether you're a developer, a blockchain enthusiast, or a contributor, this guide will walk you through everything you need to know about Agentic DNA.
 
 ## Introduction
